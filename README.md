@@ -6,7 +6,7 @@ Requisitos para execução:
 - Node.JS
 - Angular CLi
 - Adicionar a pasta NodeModules a raiz do projeto
-- execute **ng serve --open
+- execute **ng serve --open**
 
 Projeto para aprendizado, consumindo as API's do ViaCep, GoogleMaps e MapBox
 
